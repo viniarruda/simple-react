@@ -4,7 +4,7 @@
     
     - React 16.2
     - Sass
-    - Bootstrap
+    - Bootstrap 4
     - Font-Awesome
-    - Routes
+    - Routes 3.2
     - Estruturação
