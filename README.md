@@ -6,5 +6,5 @@
     - Sass
     - Bootstrap 4
     - Font-Awesome
-    - Routes 3.2
+    - Routes 4.2
     - Estruturação
